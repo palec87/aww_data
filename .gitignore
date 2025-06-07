@@ -173,3 +173,5 @@ cython_debug/
 input/Code-quality/
 .history/
 nbs_luis/
+tmp/
+visualize_algarve.ipynb
